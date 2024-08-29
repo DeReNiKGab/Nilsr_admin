@@ -1,0 +1,11 @@
+/* Initial state of the side menu */
+.app-container .content-container .side-menu {
+    width: 60px; /* Default width when not hovered */
+    transition: width 0.3s ease; /* Smooth transition effect */
+    overflow: hidden; /* Hide overflow content */
+}
+
+/* Expanded state on hover */
+.app-container .content-container .side-menu:hover {
+    width: 350px; /* Width when hovered */
+}
