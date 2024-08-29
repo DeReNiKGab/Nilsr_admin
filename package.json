@@ -1,4 +1,5 @@
 {
+    "homepage": "https://DeReNiKGab.github.io/Nilsr_admin/"  ,
     "private": true,
     "scripts": {
         "dev": "vite",
